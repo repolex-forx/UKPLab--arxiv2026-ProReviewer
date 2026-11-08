@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2026-ProReviewer",
+  "versions": [
+    {
+      "commit": "9aa7bc4566441300a329e77b1fb44e22acebe301",
+      "tag": "",
+      "parsed_at": "2026-11-08T07:09:46.839444+00:00"
+    }
+  ]
+}
