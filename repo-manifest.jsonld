@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/arxiv2026-ProReviewer/commit/9aa7bc4566441300a329e77b1fb44e22acebe301",
       "git:hexsha": "9aa7bc4566441300a329e77b1fb44e22acebe301",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
